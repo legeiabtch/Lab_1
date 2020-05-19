@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="window_text">Press the button below to receive a friendly greeting from Android.</string>
+    <string name="button_label">Show Greeting</string>
+    <string name="greeting_text">Hello from Android!</string>
+    <string name="button_label1">Show surname</string>
+    <string name="showSurname"> Kuksenko </string>
+</resources>
